@@ -1,0 +1,28 @@
+    p {
+        margin-bottom: 50px;
+        border: solid 3px white;
+        padding: 10px;
+        color: maroon;
+    } 
+    img{
+        border: solid 4px white;
+        
+    }
+    .margin-adjust{
+        margin-right: 100px;
+       
+        margin-left: 200px;
+    }
+    #title {
+        color: grey;
+        font-size: 20pt;
+    }
+    body {
+        background-color: black;}
+    h1{ 
+        padding: 10px; 
+        border: solid 3px white; 
+        color: maroon; 
+        width:10%; 
+    }
+    footer{color: maroon;}
