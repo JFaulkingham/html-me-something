@@ -5,12 +5,10 @@
         color: maroon;
     } 
     img{
-        border: solid 4px white;
-        
+        border: solid 4px white;    
     }
     .margin-adjust{
         margin-right: 100px;
-       
         margin-left: 200px;
     }
     #title {
